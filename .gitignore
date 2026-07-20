@@ -18,5 +18,9 @@ rustc-ice-*.txt
 
 .env
 
+# Debug info
+tried_queries.log
+fetch_errors.log
+
 # Files used for cli testing
 *.txt
